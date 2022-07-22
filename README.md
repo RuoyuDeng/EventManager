@@ -10,3 +10,6 @@
 
 - Please refer to `Driver.java` for a quick demo of how to use.
 
+## Software Structure
+
+- Please see class diagram provided.
